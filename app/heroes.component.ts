@@ -6,7 +6,7 @@ import { Router } from '@angular/router';
 
 @Component({
   selector: 'my-heroes',
-  templateUrl: 'app/heroes.component.html';
+  templateUrl: 'app/heroes.component.html',
   styleUrls: [ 'app/heroes.component.css' ],
   providers: [HeroService],
 })
